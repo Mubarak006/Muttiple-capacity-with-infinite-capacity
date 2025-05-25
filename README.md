@@ -63,6 +63,9 @@ print("--------------------------------------------------------------")
 ```
 ## Output :
 
+![image](https://github.com/user-attachments/assets/3345833e-116a-4834-92c1-aa59e623914b)
+
+
 
 
 ## Result : 
